@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 <h1 align="center">Hi 👋, I'm Ishan Aluthge</h1>
-<h3 align="center">A passionate frontend & Backend developer from Sri Lanka</h3>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=F70000&width=435&lines=I'M+FULLSTACK+DEVELOPER+FROM+SRI+LANKA;UI%2FUX+DESIGNER;SOFTWARE+DEVELOPER" alt="Typing SVG" /></a>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishan-aluthge&label=Profile%20views&color=0e75b6&style=flat" alt="ishan-aluthge" /> </p>
